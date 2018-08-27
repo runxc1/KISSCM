@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<Properties xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Verbose>true</Verbose>
+	<Wait>false</Wait>
+	<Provider>SQLServer</Provider>
+  <ConnectionString>data source=ike91sfuy0.database.windows.net;initial catalog=CitySparkUser;user id=remote@ike91sfuy0;password=7CrazyIdea;</ConnectionString>
+	<VersionTable>DBSchema</VersionTable>
+	<VersionScriptsFolder>Scripts</VersionScriptsFolder>
+</Properties>
